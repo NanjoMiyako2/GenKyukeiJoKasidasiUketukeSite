@@ -18,11 +18,14 @@
 @("コンセント貸し出し可能曜日","DaysOfTheWeekWhenOutletsAreAvailableForUse"),
 @("最低何日前に事前予約が必要になるかの日数","MinimumNumberOfDaysInAdvanceRequiredForAdvanceReservation"),
 @("現在の予約状況のファイルURL","UrlOfTheCurrentReservationStatusFile"),
+@("簡易予約状況システムへのURL","URLToTheSimplifiedReservationStatusSystem"),
+@("無料の貸し出しKindle端末の有無","AvailabilityOfFreeKindleRentalDevices"),
+@("wifiの有無","PresenceOrAbsenceOfWifi"),
 @("備考","Note")
 );
 
 $text = @"
-str1 = "##JP_KOMOKU##"
+str1 = "##JP_KOMOKU## : "
 str1 += json_dict3["##EN_KOMOKU##"]
 str1 += "<br>\n";
 f2.write(str1);
