@@ -1,0 +1,22 @@
+{
+    "Username": "ユーザ1test",
+    "Contact1": "aaa1",
+    "Contact2": "a2",
+    "Contact3": "a3",
+    "Contact4": "c4",
+    "Contact5": "---",
+    "AddressOfTheRestArea": "住所1",
+    "GoogleMapsSearchAddressOfTheRestArea'sSurroundingAddress": "https://www.google.com/maps/search/?api=1&query=【住所】",
+    "HowManyMinutesIsItOnFootFromTheSurroundingAddressToTheRestArea": "15分",
+    "UsageFeePerHourForRestArea": "200円",
+    "WhetherTheRestAreaHasARoof": "有",
+    "ApproximateSizeOfTheRestArea": "～畳程度",
+    "WhetherTheRestAreaHasAirConditioning": "有",
+    "WhetherTheRestAreaHasChargingOutlets": "有",
+    "NumberOfOutdoorOutlets": "二口",
+    "TimesWhenOutletsAreAvailableForUse": "～時から～時まで",
+    "DaysOfTheWeekWhenOutletsAreAvailableForUse": "～曜日と～曜日と...",
+    "MinimumNumberOfDaysInAdvanceRequiredForAdvanceReservation": "１０日前",
+    "UrlOfTheCurrentReservationStatusFile": "予約状況ファイルのURL1",
+    "Note": "備考内容\n\ntest100\nlen2\ntest200"
+}
