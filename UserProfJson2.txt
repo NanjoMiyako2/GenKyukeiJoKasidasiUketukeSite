@@ -21,5 +21,7 @@
     "URLToTheSimplifiedReservationStatusSystem": "https://nanjomiyako2.github.io/yoyakuSystemRensyu1/",
     "AvailabilityOfFreeKindleRentalDevices": "有",
     "PresenceOrAbsenceOfWifi": "有",
+    "AvailabilityOfToilets": "有",
+    "AvailabilityOfPotableWater": "有",
     "Note": "bikouNaiyouAAA"
 }

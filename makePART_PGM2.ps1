@@ -21,6 +21,8 @@
 @("簡易予約状況システムへのURL","URLToTheSimplifiedReservationStatusSystem"),
 @("無料の貸し出しKindle端末の有無","AvailabilityOfFreeKindleRentalDevices"),
 @("wifiの有無","PresenceOrAbsenceOfWifi"),
+@("トイレの有無","AvailabilityOfToilets"),
+@("飲用可能な水道の有無","AvailabilityOfPotableWater"),
 @("備考","Note")
 );
 

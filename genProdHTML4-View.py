@@ -137,6 +137,16 @@ str1 += json_dict3["PresenceOrAbsenceOfWifi"]
 str1 += "<br>\n";
 f2.write(str1);
 
+str1 = "トイレの有無 : "
+str1 += json_dict3["AvailabilityOfToilets"]
+str1 += "<br>\n";
+f2.write(str1);
+
+str1 = "飲用可能な水道の有無 : "
+str1 += json_dict3["AvailabilityOfPotableWater"]
+str1 += "<br>\n";
+f2.write(str1);
+
 str1 = "<hr>\n";
 f2.write(str1);
 
