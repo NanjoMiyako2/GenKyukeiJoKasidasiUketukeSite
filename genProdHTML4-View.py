@@ -147,6 +147,11 @@ str1 += json_dict3["AvailabilityOfPotableWater"]
 str1 += "<br>\n";
 f2.write(str1);
 
+str1 = "休憩中のごみの処理方法 : "
+str1 += json_dict3["HowToHandleTrashDuringBreakTime"]
+str1 += "<br>\n";
+f2.write(str1);
+
 str1 = "<hr>\n";
 f2.write(str1);
 

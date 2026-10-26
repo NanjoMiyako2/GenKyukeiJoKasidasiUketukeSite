@@ -23,6 +23,7 @@
 @("wifiの有無","PresenceOrAbsenceOfWifi"),
 @("トイレの有無","AvailabilityOfToilets"),
 @("飲用可能な水道の有無","AvailabilityOfPotableWater"),
+@("休憩中のごみの処理方法","HowToHandleTrashDuringBreakTime"),
 @("備考","Note")
 );
 

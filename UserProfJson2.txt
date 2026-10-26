@@ -23,5 +23,6 @@
     "PresenceOrAbsenceOfWifi": "有",
     "AvailabilityOfToilets": "有",
     "AvailabilityOfPotableWater": "有",
+    "HowToHandleTrashDuringBreakTime": "ゴミは各自で持ち帰りください/ゴミ箱有(30Lゴミ袋使用料一枚30円)",
     "Note": "bikouNaiyouAAA"
 }

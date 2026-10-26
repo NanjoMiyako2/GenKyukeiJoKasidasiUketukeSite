@@ -20,4 +20,7 @@ UrlOfTheCurrentReservationStatusFile
 URLToTheSimplifiedReservationStatusSystem
 AvailabilityOfFreeKindleRentalDevices
 PresenceOrAbsenceOfWifi
+AvailabilityOfToilets
+AvailabilityOfPotableWater
+HowToHandleTrashDuringBreakTime
 Note
